@@ -1,0 +1,2 @@
+# Quora-question-pair-similarity
+Quora has given an (almost) real-world dataset of question pairs, with the label of is_duplicate along with every question pair. The objective was to minimize the logloss of predictions on duplicacy in the testing dataset. Given a pair of questions q1 and q2, train a model that learns the function: f(q1, q2) → 0 or 1 where 1 represents that q1 and q2 have the same intent and 0 otherwise.
