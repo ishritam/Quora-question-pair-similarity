@@ -30,6 +30,8 @@ where 1 represents that q1 and q2 have the same intent and 0 otherwise.
 
 ### Data Overview
 
+- Source : https://www.kaggle.com/c/quora-question-pairs
+
 <p> 
 - Data will be in a file Train.csv <br>
 - Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate <br>
@@ -221,3 +223,11 @@ word_share - We can check from below that it is overlapping a bit, but it is giv
 
 
 
+
+
+### Reference:
+
+1. Kaggle Discussion  https://www.kaggle.com/anokas/data-analysis-xgboost-starter-0-35460-lb/comments
+2. Kaggle Winning Solution and other approaches: https://www.dropbox.com/sh/93968nfnrzh8bp5/AACZdtsApc1QSTQc7X0H3QZ5a?dl=0
+3. Blog 1 : https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+4. Blog 2 : https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30
