@@ -2,8 +2,9 @@
 
 ![Quora-cd](https://user-images.githubusercontent.com/40149802/60799481-d73d6b80-a190-11e9-912a-32e3441cb3b4.png)
 
-Quora is the place where questions get answers. This website helps online users raise queries for knowing the unknown and reply to ones they are good at answering. 
-There are 7.6 billion people living on the planet and over 100 million people visit Quora every month, so it's no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question and make writers feel they need to answer multiple versions of the same question. Quora values canonical questions because they provide a better experience to active seekers and writers, and offer more value to both of these groups in the long term.
+
+
+Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world. This website helps online users raise queries for knowing the unknown and reply to ones they are good at answering. There are 7.6 billion people living on the planet and over 100 million people visit Quora every month, so it's no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question and make writers feel they need to answer multiple versions of the same question. Quora values canonical questions because they provide a better experience to active seekers and writers, and offer more value to both of these groups in the long term.
 
 ### About the problem 
 ![image](https://user-images.githubusercontent.com/40149802/60798798-7d887180-a18f-11e9-9b29-b946cb8ad52b.png)
