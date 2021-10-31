@@ -74,7 +74,7 @@ As it's a high-level dataset, entry-level machines with 8GB RAM will take so muc
 
 I created an SQLite database and wrote records stored in a DataFrame df to a SQL database. And Considered less number of data point randomly like ~100k.
 
-###  Preprocessing
+###  Data Preprocessing
 
     1. Deduplication of entries
     2. Checking for NULL values
