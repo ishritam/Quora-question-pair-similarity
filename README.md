@@ -1,4 +1,4 @@
-# Quora-question-pair-similarity
+# Quora-question-pair-similarity ( QA Pairs Tag Matching)
 
 ![Quora-cd](https://user-images.githubusercontent.com/40149802/60799481-d73d6b80-a190-11e9-912a-32e3441cb3b4.png)
 
@@ -86,6 +86,7 @@ I created an SQLite database and wrote records stored in a DataFrame df to a SQL
          - Expanding contractions etc.
          
     4. Removing  empty question rows if any exist
+    
     
     
 ### Feature Extraction
